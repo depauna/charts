@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  esdn:
+  - apiVersion: v1
+    created: 2018-08-21T18:17:08.586154183+02:00
+    description: A Helm chart for setting up an elasticsearch cluster.
+    digest: ed3dcb22fb389c25837b789884d863dccead40a3c631804d22debc41aefa29fb
+    name: esdn
+    urls:
+    - https://192.168.56.151/charts/esdn-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-08-21T18:17:08.58561617+02:00
