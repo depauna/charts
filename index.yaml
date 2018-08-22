@@ -7,6 +7,6 @@ entries:
     digest: ed3dcb22fb389c25837b789884d863dccead40a3c631804d22debc41aefa29fb
     name: esdn
     urls:
-    - https://github.com/depauna/charts/charts/esdn-0.1.0.tgz
+      - https://github.com/depauna/charts/raw/master/charts/esdn-0.1.0.tgz
     version: 0.1.0
 generated: 2018-08-21T18:17:08.58561617+02:00
