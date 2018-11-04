@@ -3,7 +3,7 @@ entries:
   bananaman:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T02:26:28.50084393+01:00
+    created: 2018-11-04T02:30:27.305366943+01:00
     description: A Helm chart for Kubernetes
     digest: a93f8e2436afe51967d44f4a22fee2e81a76dc0000e6c16479d15bc8e384e27f
     name: bananaman
@@ -12,7 +12,7 @@ entries:
     version: 0.1.0
   bar:
   - apiVersion: v1
-    created: 2018-11-04T02:26:28.501073297+01:00
+    created: 2018-11-04T02:30:27.305644029+01:00
     description: A Helm chart for Kubernetes
     digest: 4b93b6e3b8cd21559666fac6d5d69693304246ed9960da3a763548244f21ae7d
     name: bar
@@ -22,7 +22,7 @@ entries:
   dipsi:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T02:26:28.501344423+01:00
+    created: 2018-11-04T02:30:27.305911509+01:00
     description: A Helm chart for Kubernetes
     digest: f5a8c6ea8fe1def1d9194fc0fbac010ebd55615adde9a11fe2926a8eecf137d7
     name: dipsi
@@ -31,7 +31,7 @@ entries:
     version: 0.1.0
   esdn:
   - apiVersion: v1
-    created: 2018-11-04T02:26:28.502516583+01:00
+    created: 2018-11-04T02:30:27.306940845+01:00
     description: A Helm chart for setting up an elasticsearch cluster.
     digest: 5ab8289a4240f10b3d304c130056a0a9d6670e82c746b6401e051dab4329f62d
     name: esdn
@@ -39,7 +39,7 @@ entries:
     - https://raw.githubusercontent.com/depauna/charts/master/esdn-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
-    created: 2018-11-04T02:26:28.501876565+01:00
+    created: 2018-11-04T02:30:27.306309924+01:00
     description: A Helm chart for setting up an elasticsearch cluster.
     digest: ed3dcb22fb389c25837b789884d863dccead40a3c631804d22debc41aefa29fb
     name: esdn
@@ -48,7 +48,7 @@ entries:
     version: 0.1.0
   foo:
   - apiVersion: v1
-    created: 2018-11-04T02:26:28.503013295+01:00
+    created: 2018-11-04T02:30:27.307156588+01:00
     description: A Helm chart for Kubernetes
     digest: d5818830a9f7b27bb206732a713e7257a81ef52335d25b09860a0916cd98bb4d
     name: foo
@@ -58,7 +58,7 @@ entries:
   lala:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T02:26:28.50340693+01:00
+    created: 2018-11-04T02:30:27.307358809+01:00
     description: A Helm chart for Kubernetes
     digest: 384fbdec694b6ecb1d2b36d0c7dc102a7350c429b33af56ca05cab7abbb79f49
     name: lala
@@ -67,7 +67,7 @@ entries:
     version: 0.1.0
   mysql:
   - appVersion: 5.7.14
-    created: 2018-11-04T02:26:28.504329934+01:00
+    created: 2018-11-04T02:30:27.307983883+01:00
     description: Fast, reliable, scalable, and easy to use open-source relational
       database system.
     digest: 85d3a713b05d4dc4fe260e13b1f8434aa7916450bc544942e764d6cc3de1c984
@@ -91,7 +91,7 @@ entries:
   po:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T02:26:28.504821618+01:00
+    created: 2018-11-04T02:30:27.308192383+01:00
     description: A Helm chart for Kubernetes
     digest: dfd41286c864aa8ece8aad9288bc6490efa9e80f7e43f5581485ca12e805bc9d
     name: po
@@ -101,11 +101,11 @@ entries:
   tinkiwinkie:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T02:26:28.505377343+01:00
+    created: 2018-11-04T02:30:27.308851479+01:00
     description: A Helm chart for Kubernetes
     digest: 5159b3e8a5725c5ae4e2ad6f639b8dcf64e89303071a089ee1e8547f0c7b740f
     name: tinkiwinkie
     urls:
     - https://raw.githubusercontent.com/depauna/charts/master/tinkiwinkie-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-04T02:26:28.500234111+01:00
+generated: 2018-11-04T02:30:27.304903339+01:00
