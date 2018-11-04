@@ -3,9 +3,9 @@ entries:
   apple:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T05:13:59.282350645+01:00
+    created: 2018-11-04T05:18:30.209771469+01:00
     description: A Helm chart for Kubernetes
-    digest: 14cfa1b745cd34e495198344bfaaf459a31265ed64b672a2a3783d1a60d6fea3
+    digest: 2a9c144afbba27338d99e33e7be4a105a2863081125f87f94e00efadf4e63e26
     name: apple
     urls:
     - https://raw.githubusercontent.com/depauna/charts/master/apple-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   dipsi:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T05:13:59.282681111+01:00
+    created: 2018-11-04T05:18:30.210086743+01:00
     description: A Helm chart for Kubernetes
-    digest: f5a8c6ea8fe1def1d9194fc0fbac010ebd55615adde9a11fe2926a8eecf137d7
+    digest: 0b8bae0417fc08ba4c9aa2b382d9aff015fa0809141a8ba434783c0ded686f43
     name: dipsi
     urls:
     - https://raw.githubusercontent.com/depauna/charts/master/dipsi-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   lala:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T05:13:59.283104422+01:00
+    created: 2018-11-04T05:18:30.210324833+01:00
     description: A Helm chart for Kubernetes
-    digest: 384fbdec694b6ecb1d2b36d0c7dc102a7350c429b33af56ca05cab7abbb79f49
+    digest: f4f448108523f9a1c4416705b5e6e68a78c50b2129c403fe1cadd70d21b979f8
     name: lala
     urls:
     - https://raw.githubusercontent.com/depauna/charts/master/lala-0.1.0.tgz
@@ -33,9 +33,9 @@ entries:
   po:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T05:13:59.283450487+01:00
+    created: 2018-11-04T05:18:30.210539965+01:00
     description: A Helm chart for Kubernetes
-    digest: dfd41286c864aa8ece8aad9288bc6490efa9e80f7e43f5581485ca12e805bc9d
+    digest: a7c9e92708d70bf72747a8357a6052e73de85b9dce91696ceb8049be0f2f98b3
     name: po
     urls:
     - https://raw.githubusercontent.com/depauna/charts/master/po-0.1.0.tgz
@@ -43,9 +43,9 @@ entries:
   test:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T05:13:59.283773146+01:00
+    created: 2018-11-04T05:18:30.210930767+01:00
     description: A Helm chart for Kubernetes
-    digest: da5a46a0af2df7ee20ff617ddcf30c0bc0b057a12efa0216a85a7fd64a3a0bcf
+    digest: 634b4f00fd580a4171be39ed9694caceec062424bb0fc291820060da218993e3
     name: test
     urls:
     - https://raw.githubusercontent.com/depauna/charts/master/test-0.1.0.tgz
@@ -53,11 +53,11 @@ entries:
   tinkiwinkie:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-04T05:13:59.284187591+01:00
+    created: 2018-11-04T05:18:30.211202115+01:00
     description: A Helm chart for Kubernetes
-    digest: 5159b3e8a5725c5ae4e2ad6f639b8dcf64e89303071a089ee1e8547f0c7b740f
+    digest: b44ed14f4625f7b6bc091abd1fb3f09420c6a46b04c72bb11ef9cb35ea0fbf63
     name: tinkiwinkie
     urls:
     - https://raw.githubusercontent.com/depauna/charts/master/tinkiwinkie-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-04T05:13:59.281480818+01:00
+generated: 2018-11-04T05:18:30.209219583+01:00
