@@ -12,7 +12,7 @@
 Then push.
 
  ## To use in Helm
- `helm repo add <custom name> https://raw.githubusercontent.com/depauna/charts/master/index.yaml`
+ `helm repo add <custom name> https://raw.githubusercontent.com/depauna/charts/master/`
  
  `helm repo update`
 
